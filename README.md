@@ -1,4 +1,4 @@
 # Qbittorent-Auto-Unrar
 Working code for auto unrar
 
-unrar x y "%F" -o "%D"
+unrar x "%F" -o "%D"
